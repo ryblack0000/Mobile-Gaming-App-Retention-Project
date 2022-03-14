@@ -2,7 +2,7 @@
 
 In order to explore 30-day rolling retention for players of a mobile gaming app, this project involved writing complex SQL queries and the creation of additional columns in the data. Findings were presented visually to answer questions on subjects such as in-app spending, and customer segmentation by demographic (region and age). Google BigQuery was used in combination with Google Sheets.
 
-*To view SQL queries used for this project, see 'SQL Queries.md' file within this repository.
+*To view SQL queries used for this project, see '[SQL Queries.md](https://github.com/ryblack0000/Mobile-Gaming-App-Retention-Project/blob/main/SQL_queries.md)' file within this repository.
 
 ### Created by Ryan Blackadar and Brendan Anderson: Juno College of Technology, October 2021
 
