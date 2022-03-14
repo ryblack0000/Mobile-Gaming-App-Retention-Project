@@ -1,10 +1,10 @@
-# Mobile Game Player Retention SQL Project 
-Wrote complex SQL queries to explore 30-day retention for players of a mobile gaming app, with findings presented visually to answer business questions in areas of in-app spending, and customer segmentation. Google BigQuery was used in combination with Google Sheets.
+# Mobile Gaming App Retention
 
+In order to explore 30-day rolling retention for players of a mobile gaming app, this project involved writing complex SQL queries and the creation of additional columns in the data. Findings were presented visually to answer questions on subjects such as in-app spending, and customer segmentation by demographic (region and age). Google BigQuery was used in combination with Google Sheets.
+
+*To view SQL queries used for this project, see 'SQL Queries.md' file within this repository.
 
 ### Created by Ryan Blackadar and Brendan Anderson: Juno College of Technology, October 2021
-
-For access to queries, [Click Here](https://github.com/ryblack0000/Mobile-Gaming-App-Retention-Project/blob/main/SQL_queries.md)
 
 ## Project Objective
 Investigate retention for player's of a mobile app by using a relational database and writing queries to aggregate data for the purposes of reporting and visualization.
