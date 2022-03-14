@@ -1,7 +1,7 @@
 # SQL Queries for Mobile Game Player Retention Project
 
 ### Working File in Google Sheets for Visuals / Graphs / Tables:
-https://docs.google.com/spreadsheets/d/103JXISDI3oCEXZ-AccreskXuI0Z5JJUSbnY2TNijTmU/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1HmwNxyhtVUWkQ6unLLF1up1uMqjlreljLSHjGQ1IIpw/edit?usp=sharing
 
 ## Appendix 1: 'retention_rate' Table Creation Query
 
