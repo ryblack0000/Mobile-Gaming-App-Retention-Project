@@ -4,7 +4,7 @@ Wrote complex SQL queries to explore 30-day retention for players of a mobile ga
 # Mobile Game Player Retention SQL Project 
 ## Ryan Blackadar and Brendan Anderson: Juno College of Technology, October 2021
 
-For access to queries, [Click Here](https://github.com/ryblack0000/portfolio/blob/main/Mobile%20Game%20Player%20Retention%20(SQL%20Project)/SQL_queries.md)
+For access to queries, [Click Here](https://github.com/ryblack0000/Mobile-Gaming-App-Retention-Project/blob/main/SQL_queries.md)
 
 ## Project Objective
 Investigate retention for player's of a mobile app by using a relational database and writing queries to aggregate data for the purposes of reporting and visualization.
